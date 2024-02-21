@@ -22,9 +22,3 @@ p,ul,ol,dl,address {
 p, li, dd, dt, address {
   line-height: 1.5;
 }
-.sender-column{
-  text-align: right;
-}
-.bottom-text{
-  padding-left:46.5px;
-}
